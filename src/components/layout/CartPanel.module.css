@@ -1,0 +1,32 @@
+.colorSwatch {
+  background: #efefef;
+}
+
+.swatch1 {
+  background: #E8E0D5;
+}
+.swatch2 {
+  background: #D5D0C8;
+}
+.swatch3 {
+  background: #C8BEB0;
+}
+.swatch4 {
+  background: #EDE8E0;
+}
+.swatch5 {
+  background: #D8D0C5;
+}
+.swatch6 {
+  background: #C5C0B8;
+}
+.swatch7 {
+  background: #D0C8BE;
+}
+.swatch8 {
+  background: #C8C0B5;
+}
+
+.swatchDefault {
+  background: #efefef;
+}
